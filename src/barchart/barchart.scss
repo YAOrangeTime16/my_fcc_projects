@@ -1,0 +1,24 @@
+svg {
+  background: #ffffff;
+}
+
+#tooltip {
+  background: #66dab3;
+  border: 1px solid #3d816a;  
+  width: 120px;
+  height: 80px;
+  position: relative;
+  border-radius: 6px;
+
+  p {
+    text-align: center;
+  }
+}
+
+.bar:hover {
+  fill: #99ace0;
+}
+
+.bar {
+  fill: rgba(0, 0, 255, .7);
+}
