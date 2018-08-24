@@ -5,8 +5,9 @@ console.log(__filename)
 module.exports = {
   mode: 'development',
   entry: {
-      main: ['./src/index.js'],
-      barchart: ['whatwg-fetch', './src/barchart/index.js'],
+      //main: ['./src/index.js'],
+      //barchart: ['whatwg-fetch', './src/barchart/index.js'],
+      scatterplot: ['whatwg-fetch', './src/scatterplot/index.js']
   },
   devtool: 'inline-source-map',
   output: {

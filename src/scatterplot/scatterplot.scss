@@ -1,0 +1,17 @@
+#tooltip {
+  position: relative;
+  opacity: 0.8;
+  border-radius: 5px;
+  width: 250px;
+  height: auto;
+  padding: 8px;
+  text-align: center;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.dot:hover {
+  opacity: 0.5;
+  stroke: black;
+}
