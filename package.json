@@ -12,17 +12,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "css-loader": "^1.0.0",
-    "node-sass": "^4.9.3",
+    "css-loader": "^1.0.1",
+    "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.1",
-    "uikit": "^3.0.0-rc.11",
+    "uikit": "^3.0.0-rc.25",
     "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
-    "webpack": "^4.16.5",
-    "webpack-cli": "^3.1.0"
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2"
   },
   "homepage": "https://yaorangetime16.github.io/my_fcc_projects/"
 }
